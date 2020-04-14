@@ -20,17 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58f5fba-49a8-4d9b-9ee9-7ebb701684cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/apple2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wgj1969/apple1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wgj1969/apple2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/React语法/cc.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/React语法/jsx-base.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/React语法/life-circle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/React语法/router.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/apple1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1969/apple2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/layout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/layout/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/nav-side/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/nav-top/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/page-title/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/home/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/规划" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apple2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgj1969/apple1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wgj1969/apple2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +54,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1aKrtFZQFAa2X9VS7ZzU8uuwoxB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,9 +73,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +84,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/app.jsx" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.jsx" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,7 +109,14 @@
       <workItem from="1586495407950" duration="151000" />
       <workItem from="1586495580910" duration="14743000" />
       <workItem from="1586544292961" duration="2182000" />
-      <workItem from="1586548217776" duration="14922000" />
+      <workItem from="1586548217776" duration="15520000" />
+      <workItem from="1586609709779" duration="2522000" />
+      <workItem from="1586658398554" duration="40000" />
+      <workItem from="1597203035027" duration="662000" />
+      <workItem from="1586686523379" duration="501000" />
+      <workItem from="1586697976185" duration="5515000" />
+      <workItem from="1586724328986" duration="44853000" />
+      <workItem from="1586817557796" duration="48644000" />
     </task>
     <servers />
   </component>
@@ -99,33 +139,49 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="902" y="156" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586495858638">
+    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586857549037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="902" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586495858638" />
-    <state x="930" y="114" key="FileChooserDialogImpl" timestamp="1586495575248">
+    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586857549037" />
+    <state x="693" y="199" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1586731685626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="930" y="114" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586495575248" />
-    <state width="763" height="170" key="GridCell.Tab.0.bottom" timestamp="1586553651715">
+    <state x="693" y="199" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.864@0.0.1536.864" timestamp="1586731685626" />
+    <state x="780" y="193" key="EditFileWatcherDialog" timestamp="1586703777093">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="763" height="170" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586553651715" />
-    <state width="763" height="170" key="GridCell.Tab.0.center" timestamp="1586553651715">
+    <state x="780" y="193" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1586703777093" />
+    <state x="900" y="167" key="FileChooserDialogImpl" timestamp="1586731616581">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="763" height="170" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586553651715" />
-    <state width="763" height="170" key="GridCell.Tab.0.left" timestamp="1586553651715">
+    <state x="900" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586731616581" />
+    <state width="795" height="208" key="GridCell.Tab.0.bottom" timestamp="1586761816278">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="763" height="170" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586553651715" />
-    <state width="763" height="170" key="GridCell.Tab.0.right" timestamp="1586553651715">
+    <state width="795" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
+    <state width="795" height="208" key="GridCell.Tab.0.center" timestamp="1586761816278">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="763" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586553651715" />
-    <state x="802" y="162" key="run.anything.popup" timestamp="1586498521552">
+    <state width="795" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
+    <state width="795" height="208" key="GridCell.Tab.0.left" timestamp="1586761816278">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="802" y="162" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586498521552" />
+    <state width="795" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
+    <state width="795" height="208" key="GridCell.Tab.0.right" timestamp="1586761816278">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="795" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
+    <state x="388" y="105" width="1148" height="711" key="SettingsEditor" timestamp="1586732437544">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="388" y="105" width="1148" height="711" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586732437544" />
+    <state x="850" y="178" width="779" height="803" key="dock-window-1" timestamp="1586751873929">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="850" y="178" width="779" height="803" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1586751873929" />
+    <state x="810" y="185" key="search.everywhere.popup" timestamp="1586869149768">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="810" y="185" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586869149768" />
   </component>
 </project>
