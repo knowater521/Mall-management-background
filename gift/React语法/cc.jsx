@@ -192,7 +192,7 @@
 
 
 //import 'font-awesome/css/font-awesome.min.css';
-//import './index.css';
+//import './index.scss';
 //import './index.scss';
 
 //ReactDom.render(

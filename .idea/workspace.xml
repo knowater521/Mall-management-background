@@ -20,32 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58f5fba-49a8-4d9b-9ee9-7ebb701684cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/React语法/cc.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/React语法/jsx-base.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/React语法/life-circle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/React语法/router.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/apple1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1969/apple2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/layout/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/layout/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/nav-side/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/nav-top/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/page-title/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/规划" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/home/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/login/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/login/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/user/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/statistic-service.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/user-service.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/pagination/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/React语法/cc.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/cc.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/React语法/jsx-base.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/jsx-base.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/React语法/life-circle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/life-circle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/React语法/router.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/router.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/apple1.png" beforeDir="false" afterPath="$PROJECT_DIR$/gift/apple1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1969/apple2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gift/apple2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apple2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/layout/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/layout/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/nav-side/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/nav-side/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/nav-top/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/nav-top/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/home/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/error/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/home/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/mm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/mm.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgj1969/apple1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgj1969/apple2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/规划" beforeDir="false" afterPath="$PROJECT_DIR$/planning" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,9 @@
       <workItem from="1586686523379" duration="501000" />
       <workItem from="1586697976185" duration="5515000" />
       <workItem from="1586724328986" duration="44853000" />
-      <workItem from="1586817557796" duration="48644000" />
+      <workItem from="1586817557796" duration="49842000" />
+      <workItem from="1586906897564" duration="38377000" />
+      <workItem from="1586991532755" duration="4473000" />
     </task>
     <servers />
   </component>
@@ -179,9 +181,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="850" y="178" width="779" height="803" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1586751873929" />
-    <state x="810" y="185" key="search.everywhere.popup" timestamp="1586869149768">
+    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1586920435670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="810" y="185" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586869149768" />
+    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586920435670" />
   </component>
 </project>
