@@ -39,9 +39,12 @@ class MUtil {
             return result ? decodeURIComponent(result[2]) : null;
         //result: ['param=123', '', '123', '&']
     }
+    successTips(successMsg){
+        alert(successMsg || '操作成功!');
+    }
     //错误提示
     errorTips(errMsg){
-        alert(errMsg || '欢迎来到新世界~')
+        alert(errMsg || '欢迎来到新世界~');
     }
    //存储
     setStorage(name, data){

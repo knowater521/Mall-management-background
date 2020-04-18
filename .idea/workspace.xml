@@ -20,32 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c58f5fba-49a8-4d9b-9ee9-7ebb701684cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/page/home/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/user/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/statistic-service.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/user-service.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/pagination/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/layout/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/Pid.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/category-selector.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/category-selector.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/detail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/index-list-search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/save.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/index/save.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/product/router.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/product-service.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/file-uploader/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/file-uploader/react-fileupload.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/rich-editor/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/rich-editor/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/table-list/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/React语法/cc.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/cc.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/React语法/jsx-base.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/jsx-base.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/React语法/life-circle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/life-circle.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/React语法/router.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/gift/React语法/router.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/apple1.png" beforeDir="false" afterPath="$PROJECT_DIR$/gift/apple1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1969/apple2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gift/apple2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/layout/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/layout/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/nav-side/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/nav-side/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/nav-top/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/nav-top/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/home/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/error/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/home/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/layout/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/layout/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/user/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/user/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/util/mm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/mm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/pagination/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/pagination/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/规划" beforeDir="false" afterPath="$PROJECT_DIR$/planning" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,9 @@
       <workItem from="1586724328986" duration="44853000" />
       <workItem from="1586817557796" duration="49842000" />
       <workItem from="1586906897564" duration="38377000" />
-      <workItem from="1586991532755" duration="4473000" />
+      <workItem from="1586991532755" duration="38587000" />
+      <workItem from="1587083659018" duration="36653000" />
+      <workItem from="1587162495138" duration="7530000" />
     </task>
     <servers />
   </component>
@@ -141,10 +143,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586857549037">
+    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587110833502">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586857549037" />
+    <state x="908" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1587110833502" />
     <state x="693" y="199" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1586731685626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -157,22 +159,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="900" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586731616581" />
-    <state width="795" height="208" key="GridCell.Tab.0.bottom" timestamp="1586761816278">
+    <state width="813" height="210" key="GridCell.Tab.0.bottom" timestamp="1587113632997">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="795" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
-    <state width="795" height="208" key="GridCell.Tab.0.center" timestamp="1586761816278">
+    <state width="813" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587113632997" />
+    <state width="813" height="210" key="GridCell.Tab.0.center" timestamp="1587113632997">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="795" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
-    <state width="795" height="208" key="GridCell.Tab.0.left" timestamp="1586761816278">
+    <state width="813" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587113632997" />
+    <state width="813" height="210" key="GridCell.Tab.0.left" timestamp="1587113632946">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="795" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
-    <state width="795" height="208" key="GridCell.Tab.0.right" timestamp="1586761816278">
+    <state width="813" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587113632946" />
+    <state width="813" height="210" key="GridCell.Tab.0.right" timestamp="1587113632997">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="795" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586761816278" />
+    <state width="813" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587113632997" />
     <state x="388" y="105" width="1148" height="711" key="SettingsEditor" timestamp="1586732437544">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -181,9 +183,24 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="850" y="178" width="779" height="803" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1586751873929" />
-    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1586920435670">
+    <state x="810" y="18" width="602" height="798" key="find.popup" timestamp="1587168006165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586920435670" />
+    <state x="810" y="18" width="602" height="798" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1587168006165" />
+    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1587103206083">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="810" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587103206083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/service/product-service.jsx</url>
+          <line>79</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

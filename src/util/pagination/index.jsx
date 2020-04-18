@@ -14,6 +14,7 @@ class Pagination extends React.Component{
                     <RcPagination {...this.props}
                                   hideOnSinglePage
                                   showQuickJumper
+
                     />
                 </div>
             </div>
